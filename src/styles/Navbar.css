@@ -1,0 +1,20 @@
+nav {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+.cart-icon {
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    padding-right: 20px;
+}
