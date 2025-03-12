@@ -1,0 +1,22 @@
+.hero-container {
+    position: relative;
+    height: 80vh;
+    background-image: url(/images/easter.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+}
